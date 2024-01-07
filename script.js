@@ -16,7 +16,7 @@ const app = Vue.createApp({
       } else if (today === 4) {
         this.message = "Almost.";
       } else {
-        this.message = "No.";
+        this.message = "Nope.";
       }
     },
   },
